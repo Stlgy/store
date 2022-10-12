@@ -1,0 +1,19 @@
+{
+    "name": "thecodeholic/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "Thecodeholic\\PhpmvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "stigy"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
